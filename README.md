@@ -30,7 +30,7 @@ I enjoy turning ideas into real-world applications through clean code, continuou
 
 ### 🚀 Currently Focused On:
 - 📚 Pursuing B.Tech CSE (Honors) – Data Engineering for AI
-- 💻 Strengthening Data Structures & Algorithms (CodeChef 2★)
+- 💻 Strengthening Data Structures & Algorithms
 - ☁️ Mastering Cloud Technologies & High-Throughput Data Engineering
 - 🤖 Exploring Machine Learning, Neural Pipelines & Generative AI
 - 🌱 Building full-stack systems to solve real-world industry problems
