@@ -47,46 +47,22 @@ I enjoy turning ideas into real-world applications through clean code, continuou
 | Achievement / Certification | Highlight | Organization |
 | :--- | :---: | :--- |
 | **CodeChef 2★ Programmer** | `⭐ 2-Star Programmer` | CodeChef |
-| **Flipkart Grid Semi-Finalist** | `🚀 Semi-Finalist` | Flipkart |
+| **Flipkart Grid 2x Participant** | `🚀 Innovator` | Flipkart |
 | **Adobe Hackathon Participant** | `💻 Innovator` | Adobe |
-| **Cambridge Linguaskill Certified** | `🎓 International Cert` | Cambridge Assessment English |
+| **Cambridge Linguaskill Certified** | `🎓 Global Certification` | Cambridge Assessment English |
 | **Cisco Python Essentials Certified** | `📜 Cisco Certified` | Cisco Networking Academy |
 | **IBM & Udemy Certified Learner** | `📚 Certified Track` | IBM / Udemy |
 
 ---
 
-## 📊 GitHub Analytics & Highlights
-
-<table border="0" align="center" width="100%">
-  <tr justify-content="center">
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.shion.dev/api?username=Cherukuri-Venkatesh&theme=codeSTACKr&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=false" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=false&layout=compact" alt="Top Languages" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=codeSTACKr" alt="Dev Quote" width="100%" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🏆 GitHub Trophy Shelf
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cherukuri-Venkatesh&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
 
 
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cherukuri-Venkatesh&icon=0&color=1" alt="Profile Views" />
-</p>
 
