@@ -53,6 +53,9 @@ I enjoy turning ideas into real-world applications through clean code, continuou
 | **IBM & Udemy Certified Learner** | `📚 Certified Track` | IBM / Udemy |
 
 ---
+## 📈 3D Contribution Graph
+
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
