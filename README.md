@@ -62,8 +62,9 @@ I enjoy turning ideas into real-world applications through clean code, continuou
 ![](https://streak-stats.demolab.com/?user=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 💭 Quote of the Day
 
-
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/Cherukuri-Venkatesh/Cherukuri-Venkatesh/refs/heads/main/quotes/quotes.json&theme=tokyonight&animation=grow_out_in)
 
 
 ---
