@@ -64,7 +64,7 @@ I enjoy turning ideas into real-world applications through clean code, continuou
 
 ## 💭 Quote of the Day
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/Cherukuri-Venkatesh/Cherukuri-Venkatesh/refs/heads/main/quotes/quotes.json&theme=tokyonight&animation=grow_out_in)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/Cherukuri-Venkatesh/Cherukuri-Venkatesh/refs/heads/main/quotes/quotes.json&theme=tokyonight&animation=grow_out_in&layout=socrates)
 
 
 ---
