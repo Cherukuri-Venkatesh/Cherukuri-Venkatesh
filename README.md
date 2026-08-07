@@ -52,23 +52,26 @@ I enjoy turning ideas into real-world applications through clean code, continuou
 | **Cisco Python Essentials Certified** | `📜 Cisco Certified` | Cisco Networking Academy |
 | **IBM & Udemy Certified Learner** | `📚 Certified Track` | IBM / Udemy |
 
----
 
-<div align="center">
-
-## 💻 LeetCode Stats
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" />
-
-</div>
 ## 📈 3D Contribution Graph
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---<br>
+
+<h2 align="center">💻 LeetCode Stats</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kl2400032597?theme=dark&font=Karma&ext=contest"/>
+</p>
+
+<br><br>
+
+</div>
+
 
 ## 💭 Quote of the Day
 
