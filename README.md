@@ -54,10 +54,13 @@ I enjoy turning ideas into real-world applications through clean code, continuou
 
 ---
 
+<div align="center">
+
 ## 💻 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kl2400032597?theme=dark&font=Karma&ext=contest)
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" />
 
+</div>
 ## 📈 3D Contribution Graph
 
 ![](./profile-3d-contrib/profile-night-green.svg)
