@@ -53,6 +53,11 @@ I enjoy turning ideas into real-world applications through clean code, continuou
 | **IBM & Udemy Certified Learner** | `📚 Certified Track` | IBM / Udemy |
 
 ---
+
+## 💻 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kl2400032597?theme=dark&font=Karma&ext=contest)
+
 ## 📈 3D Contribution Graph
 
 ![](./profile-3d-contrib/profile-night-green.svg)
