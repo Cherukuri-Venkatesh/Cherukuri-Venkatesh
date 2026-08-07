@@ -146,24 +146,42 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 
 ---
 
-## 🏆 Key Achievements & Credentials
+## 📊 GitHub Statistics
 
-| Achievement / Certification | Highlight | Organization |
-| :--- | :---: | :--- |
-| **CodeChef 2★ Programmer** | `⭐ 2-Star Programmer` | CodeChef |
-| **Flipkart Grid 2x Participant** | `🚀 Innovator` | Flipkart |
-| **Adobe Hackathon Participant** | `💻 Innovator` | Adobe |
-| **Cambridge Linguaskill Certified** | `🎓 Global Certification` | Cambridge Assessment English |
-| **Cisco Python Essentials Certified** | `📜 Cisco Certified` | Cisco Networking Academy |
-| **IBM & Udemy Certified Learner** | `📚 Certified Track` | IBM / Udemy |
+<div align="center">
 
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+
+<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=true&layout=compact"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=true"/>
+
+</div>
+
+---
 
 ## 📈 3D Contribution Graph
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+---
 
----<br>
+## 🏆 Achievements & Highlights
+
+- 🏅 Solved **1000+ coding problems on CodeChef**, earning a **2★ Programmer** rating through consistent competitive programming and advanced algorithmic problem solving.
+- 🚀 Participated in **Smart India Hackathon (2×)**, **Adobe India Hackathon**, and **Flipkart GRID**, contributing to innovative solutions in national-level software engineering and innovation competitions.
+- 👥 Demonstrated **leadership** across academic projects and hackathons by driving collaboration, taking technical ownership, and delivering high-quality solutions in team-oriented environments.
+- 🌱 Driven by **consistency, discipline, resilience, adaptability, and lifelong learning**, with a passion for solving complex problems, building scalable software, and exploring emerging technologies.
+
+---
 
 <h2 align="center">💻 LeetCode Stats</h2>
 
@@ -177,6 +195,7 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 
 </div>
 
+---
 
 ## 💭 Quote of the Day
 
