@@ -1,26 +1,38 @@
 <div align="center">
 
-# 👋 Hi, I'm Cherukuri Venkatesh
-### B.Tech Computer Science & Engineering (Honors)
-**Specializing in Data Engineering for AI**
+<h1>👋 Hi, I'm Cherukuri Venkatesh</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/venkateshcherukuri1">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<h3>Java Backend Developer • Data Science & Engineering for AI • Problem Solver</h3>
+
+<br>
+
+> **Building scalable backend systems with Spring Boot, engineering AI-driven data solutions, and solving complex algorithmic challenges through consistency, discipline, and continuous learning. 🚀**
+
+<br>
+<p>
   <a href="mailto:venkateshcherukuri91@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <a href="https://www.linkedin.com/in/venkateshcherukuri1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
   <a href="https://github.com/Cherukuri-Venkatesh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <!--
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  -->
+
 </p>
 
----
-
-> *" Consistency, curiosity, and continuous learning are the foundation of great engineering. "*
-
 </div>
+
+---
 
 ## 💫 About Me
 
