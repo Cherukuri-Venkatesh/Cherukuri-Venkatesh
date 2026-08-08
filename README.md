@@ -229,7 +229,7 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 
 &nbsp;&nbsp;
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/venkateshcherukuri1/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
