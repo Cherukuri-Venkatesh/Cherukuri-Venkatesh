@@ -196,7 +196,7 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 
 <p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/k12400032597?theme=dark&font=Karma&ext=contest"
+    src="https://leetcard.jacoblin.cool/kl2400032597?theme=dark&font=Karma&ext=contest"
     width="520"
   />
 </p>
@@ -209,44 +209,36 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 
 <br><br>
 
-<table>
-<tr>
+<p align="center">
 
-<td align="center">
 <a href="https://www.codechef.com/users/kl2400032597">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
-</td>
 
-<td align="center">
+&nbsp;&nbsp;
+
 <a href="https://leetcode.com/u/k12400032597/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-</td>
 
-</tr>
+<br><br>
 
-<tr>
-
-<td align="center">
 <a href="https://github.com/Cherukuri-Venkatesh">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+&nbsp;&nbsp;
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
 </td>
 
-<td align="center">
-<a href="https://www.linkedin.com/in/venkateshcherukuri1/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</td>
-
-</tr>
 </table>
 
-</td>
-
-</tr>
-</table>
 
 ---
 
