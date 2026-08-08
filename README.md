@@ -183,17 +183,70 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 
 ---
 
-<h2 align="center">💻 LeetCode Stats</h2>
+## 🤝 Coding Profiles & Connect
+
+<table>
+<tr>
+
+<td width="62%" align="center">
+
+<h3>💻 LeetCode Statistics</h3>
 
 <br>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kl2400032597?theme=dark&font=Karma&ext=contest"/>
+  <img
+    src="https://leetcard.jacoblin.cool/k12400032597?theme=dark&font=Karma&ext=contest"
+    width="520"
+  />
 </p>
+
+</td>
+
+<td width="38%" align="center">
+
+<h3>🔗 Connect</h3>
 
 <br><br>
 
-</div>
+<table>
+<tr>
+
+<td align="center">
+<a href="https://www.codechef.com/users/kl2400032597">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://leetcode.com/u/k12400032597/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/Cherukuri-Venkatesh">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/venkateshcherukuri1/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
