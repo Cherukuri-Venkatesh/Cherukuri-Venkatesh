@@ -242,11 +242,25 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 
 ---
 
-## 💭 Quote of the Day
+## 💭 A Thought to Remember
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://raw.githubusercontent.com/Cherukuri-Venkatesh/Cherukuri-Venkatesh/refs/heads/main/quotes/quotes.json&theme=tokyonight&animation=grow_out_in&layout=socrates)
+<p align="center">
+
+> **"Great things are built one step at a time. Stay consistent, stay curious, and let your work speak for itself."**
+
+</p>
+
+---
 
 
-<!--![Quote](https://github-readme-quotes-bay.vercel.app/quote)-->
+<div align="center">
+
+### ⭐ Thanks for visiting my profile
+
+**Building meaningful software with amazing people.**
+**Feel free to explore my projects, coding journey, and the things I'm building.🚀**
+
+</div>
+
 ---
 
