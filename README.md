@@ -217,7 +217,7 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 
 &nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/k12400032597/">
+<a href="https://leetcode.com/u/kl2400032597/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
