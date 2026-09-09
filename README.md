@@ -252,7 +252,6 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 
 ---
 
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile
@@ -263,5 +262,4 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 </div>
 
 ---
-
 
