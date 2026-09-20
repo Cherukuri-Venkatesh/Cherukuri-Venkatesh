@@ -162,7 +162,7 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Cherukuri-Venkatesh&theme=codeSTACKr&hide_border=true"/>
 
 </div>
 
