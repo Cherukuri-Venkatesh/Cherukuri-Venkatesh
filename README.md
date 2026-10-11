@@ -259,8 +259,6 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 **Building meaningful software with amazing people.**
 **Feel free to explore my projects, coding journey, and the things I'm building.🚀**
 
-google-site-verification = qVqYHFGUb04y_q20lh0sF5OS_QOZUqD7dY6SnhAqPP0 
-
 </div>
 
 ---
