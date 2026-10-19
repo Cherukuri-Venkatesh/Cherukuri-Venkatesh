@@ -257,7 +257,7 @@ Rather than simply learning frameworks, I strive to understand **how large-scale
 ### ⭐ Thanks for visiting my profile
 
 **Building meaningful software with amazing people.**
-**Feel free to explore my projects, coding journey, and the things I'm building.🚀.**
+**Feel free to explore my projects, coding journey, and the things I'm building.🚀**
 
 </div>
 
